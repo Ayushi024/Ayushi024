@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ProctorX**
 
-- 🌱 I’m currently learning **advanced Java concepts**
+- 🌱 I’m currently learning **Advanced Java concepts**
 
 - 💬 Ask me about **Cloud Computing and Virtualization**
 
