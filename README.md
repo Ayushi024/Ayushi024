@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ProctorX**
 
-- 🌱 I’m currently learning **Advanced JavaScript**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Cloud Computing and Virtualization**
 
