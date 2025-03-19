@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi024&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi024" /> </p>
 
-- 🔭 I’m currently working on **ProctorX**
+- 🔭 I’m currently working on **V-Motion**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **DevOps, CI/CD, Docker, Kubernetes**
 
 - 💬 Ask me about **Cloud Computing and Virtualization**
 
